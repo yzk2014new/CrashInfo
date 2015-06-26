@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrashInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_crash">New Crash</string>
+    <string name="query_crash">Query Crash</string>
+</resources>
